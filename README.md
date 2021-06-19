@@ -1,5 +1,6 @@
-# ML_Octave
-Projects using Octave (the Standford Machine Learning online course)
+# ML projects using Octave
+This repository includes projects using Octave (the Standford Machine Learning online course)
 
-This folder includes 8 programming assignments ("task", for short) I've successfully completed online. 
+## Project overview
+In this project, I am tasked with completing 8 programming assignments ("task", for short). 
 Each task folder represents the ML algorithm implementation. A .pdf file included in each task provides a detailed description on how it's implemented.
