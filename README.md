@@ -1,5 +1,5 @@
-# ML projects using Octave
-This repository includes projects using Octave (the Standford Machine Learning online course)
+# ML using Octave
+This repository includes the implementation of ML algorithms using Octave (the Standford Machine Learning online course).
 
 ## Project overview
 In this project, I am tasked with completing 8 programming assignments ("task", for short). 
